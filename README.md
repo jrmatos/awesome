@@ -16,6 +16,9 @@ A collection of awesome resources on front-end, back-end, mobile, game developme
     - [Continuous Integration vs. Continuous Delivery vs. Continuous Deployment](http://stackoverflow.com/questions/28608015/continuous-integration-vs-continuous-delivery-vs-continuous-deployment)
   - Git
     - [Oh shit, git!](http://ohshitgit.com/)
+    
+- Other awesomes
+  - [Curated list of awesome lists](https://github.com/sindresorhus/awesome)
 
 
 [MIT License](https://github.com/jrmatos/awesome/blob/master/LICENSE)
