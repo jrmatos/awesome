@@ -9,3 +9,6 @@ A collection of awesome resources on front-end, back-end, mobile, game developme
 - Miscellaneous
   - CI
     - [Travis CI for Complete Beginners](https://docs.travis-ci.com/user/for-beginners)
+
+
+[MIT License](https://github.com/jrmatos/awesome/blob/master/LICENSE)
