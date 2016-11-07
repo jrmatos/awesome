@@ -14,6 +14,8 @@ A collection of awesome resources on front-end, back-end, mobile, game developme
   - CI
     - [Travis CI for Complete Beginners](https://docs.travis-ci.com/user/for-beginners)
     - [Continuous Integration vs. Continuous Delivery vs. Continuous Deployment](http://stackoverflow.com/questions/28608015/continuous-integration-vs-continuous-delivery-vs-continuous-deployment)
+  - Git
+    - [Oh shit, git!](http://ohshitgit.com/)
 
 
 [MIT License](https://github.com/jrmatos/awesome/blob/master/LICENSE)
