@@ -12,6 +12,10 @@ A collection of awesome resources on front-end, back-end, mobile, game developme
   - Unit testing
     - [Node.js App Testing with Jasmine.js Tutorial](https://www.distelli.com/docs/tutorials/test-your-nodejs-with-jasmine)
     - [JavaScript unit test tools for TDD](http://stackoverflow.com/questions/300855/javascript-unit-test-tools-for-tdd)
+  
+  - Other
+    - [Promises/A+](https://promisesaplus.com)
+    
     
 - Miscellaneous
   - CI
