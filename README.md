@@ -24,6 +24,9 @@ A collection of awesome resources on front-end, back-end, mobile, game developme
   - Git
     - [Oh shit, git!](http://ohshitgit.com/)
     
+  - Linux
+    - [Using the find command](https://www.digitalocean.com/community/tutorials/how-to-use-find-and-locate-to-search-for-files-on-a-linux-vps)
+    
 - Other awesomes
   - [Curated list of awesome lists](https://github.com/sindresorhus/awesome)
 
